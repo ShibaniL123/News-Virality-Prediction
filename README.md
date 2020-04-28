@@ -17,3 +17,4 @@ This model is used to predict number of retweets.  Random Forest Regressor, Ridg
     Decision Tree 	         0.384234
 
 I've included visualizations of data,as well as heatmaps of correlation between parameters.
+Future Scope: The category of news article(politics, social science,etc.) can be used as a parameter to train the model.
